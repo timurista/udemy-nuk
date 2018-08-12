@@ -1,0 +1,26 @@
+{
+  "name": "udemy-nuk",
+  "version": "1.0.0",
+  "description": "for coding challenge 8 https://github.com/aneagoie/Coding_Challenge-8",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurista/udemy-nuk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timurista/udemy-nuk/issues"
+  },
+  "homepage": "https://github.com/timurista/udemy-nuk#readme",
+  "dependencies": {
+    "global": "^4.3.2",
+    "parcel-bundler": "^1.9.7",
+    "surge": "^0.20.1"
+  }
+}
